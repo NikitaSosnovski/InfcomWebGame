@@ -1,0 +1,4 @@
+"Programmiere auf Javascript 'Hello World'."
+"Holl bitte Kamera, und mach ein Overshoulder."
+"Geh zum Herr Kreutzer, er wird dir After Effects erklären."
+"Du hast alles super gemacht Deine Note ist: "

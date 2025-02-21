@@ -1,0 +1,16 @@
+@font-face {
+  font-family: pixelFont;
+  src: url('../public/Pixelon-OGALo.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: pixelFont;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

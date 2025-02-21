@@ -1,0 +1,14 @@
+@font-face {
+  font-family: pixelFont;
+  src: url('../public/Pixelon-OGALo.ttf');
+}
+
+.App {
+  text-align: center;
+  overflow: hidden;
+  font-family: pixelFont;
+}
+
+canvas {
+  display: block;
+}
